@@ -1,0 +1,7 @@
+extensions:
+    algoliaSearch: petrjirasek\AlgoliaSearch\DI\AlgoliaSearchExtension
+
+algoliaSearch:
+    applicationId: abc123
+    apiKey: test
+    options: something

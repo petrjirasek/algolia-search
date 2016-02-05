@@ -1,0 +1,4 @@
+extensions:
+    algoliaSearch: petrjirasek\AlgoliaSearch\DI\AlgoliaSearchExtension
+
+algoliaSearch:
