@@ -1,6 +1,5 @@
 <?php
 
-
 namespace petrjirasek\AlgoliaSearch;
 
 use Nette;
