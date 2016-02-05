@@ -1,4 +1,4 @@
-# AlgoliaSearch
+# AlgoliaSearch [UNDER DEVELOPMENT]
 
 Implementation of [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php) to Nette.
 
