@@ -4,6 +4,5 @@ extensions:
 algoliaSearch:
     applicationId: abc123
     apiKey: abc123
-    prefix: dev_
     hosts: [host1, host2, host3]
     options: [cainfo : value1, curloptions : []]

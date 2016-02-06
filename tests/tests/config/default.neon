@@ -4,4 +4,3 @@ extensions:
 algoliaSearch:
     applicationId: abc123
     apiKey: abc123
-    prefix: prod_
