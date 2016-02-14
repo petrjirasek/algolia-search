@@ -25,7 +25,6 @@ extensions:
 algoliaSearch:
     applicationId: abc123 # application id
     apiKey: abc123 # api key
-    prefix: dev_ # prefix of indices
     hosts: ... # array of hosts
     options: [cainfo : ..., curloptions : [...]] # array of options
 ```
