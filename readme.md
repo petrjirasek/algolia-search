@@ -1,4 +1,10 @@
-# AlgoliaSearch [UNDER DEVELOPMENT]
+# This repository is deprecated and unmaintained
+
+**For the official version head to [algolia/algoliasearch-nette](https://github.com/algolia/algoliasearch-nette).**
+
+***
+
+# AlgoliaSearch
 
 Implementation of [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php) to Nette.
 
